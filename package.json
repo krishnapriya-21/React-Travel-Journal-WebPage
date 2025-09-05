@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06j1gs",
-  "description": "https://scrimba.com/learn-react-c0e/~05s2/s04vdvjfmp/head",
+  "name": "React-Travel-Journal-WebPage",
+  "description": "A React project bootstrapped with Vite",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -18,5 +18,5 @@
     "@vitejs/plugin-react": "*",
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://<krishnapriya-21>.github.io/<React-Travel-Journal-WebPage>"
+  "homepage": "https://krishnapriya-21.github.io/React-Travel-Journal-WebPage"
 }
