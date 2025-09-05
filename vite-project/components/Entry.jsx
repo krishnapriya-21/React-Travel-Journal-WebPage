@@ -9,7 +9,7 @@ export default function Entry(props){
 
             <div className="PlaceDetails">
                 <div className="LocationDetails">
-                    <img src="../images/marker.png" alt="globe icon" className="globeIcon"/>
+                    <img src="../images/marker.png" alt="location icon" className="locationIcon"/>
                     <p className="country">{props.country}</p>
                     < a href={props.googleMapsLink} className="googleMapsLink" target="_blank" rel="noopener norefferer">View on Google Maps</a>
                 </div>
