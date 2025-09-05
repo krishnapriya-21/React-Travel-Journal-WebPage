@@ -4,7 +4,7 @@ export default[
     {
         id:1,
         img:{
-            src:"./images/Azabudai.jpg",
+            src:"/images/Azabudai.jpg",
             alt:"Azabudai"
         },
         title:"Azabudai",
@@ -19,7 +19,7 @@ export default[
     {
         id:2,
         img:{
-            src:"./images/Marunouchi.jpg",
+            src:"/images/Marunouchi.jpg",
             alt:"Marunouchi"
         },
         title:"Marunouchi",
@@ -33,7 +33,7 @@ export default[
     {
         id:3,
         img:{
-            src:"./images/Odaiba.jpg",
+            src:"/images/Odaiba.jpg",
             alt:"Odaiba"
         },
         title:"Odaiba",
